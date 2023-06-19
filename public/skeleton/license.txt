@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skeleton Mage  [Stylized creation Assignment]
+* source:	https://sketchfab.com/3d-models/skeleton-mage-stylized-creation-assignment-4909652595aa43cb841566c462be0f9e
+* author:	Johan Pindeville (https://sketchfab.com/johanpindeville)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skeleton Mage  [Stylized creation Assignment]" (https://sketchfab.com/3d-models/skeleton-mage-stylized-creation-assignment-4909652595aa43cb841566c462be0f9e) by Johan Pindeville (https://sketchfab.com/johanpindeville) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
