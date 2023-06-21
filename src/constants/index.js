@@ -23,6 +23,8 @@ import {
   berkeley,
   igmr,
   quantstack,
+  ucb,
+  rwth,
 } from "../assets";
 
 export const navLinks = [
@@ -111,6 +113,23 @@ const technologies = [
   {
     name: "docker",
     icon: docker,
+  },
+];
+
+const educations = [
+  {
+    title: "MS, Robotic Systems Engineering",
+    school_name: "RWTH Aachen",
+    icon: rwth,
+    iconBg: "#FFFFFF",
+    date: "October 2022 - April 2023",
+  },
+  {
+    title: "BS, Mechanical Engineering",
+    school_name: "University of California,Berkeley",
+    icon: ucb,
+    iconBg: "#FFFFFF",
+    date: "September 2017 - May 2020",
   },
 ];
 
@@ -265,4 +284,11 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export {
+  services,
+  technologies,
+  experiences,
+  educations,
+  testimonials,
+  projects,
+};

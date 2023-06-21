@@ -20,9 +20,9 @@ const Ball = (props) => {
       <ambientLight intensity={0.25} />
       <directionalLight position={[0, 0, 0.05]} />
       <mesh castShadow receiveShadow scale={2.75}>
-        <icosahedronGeometry args={[1, 1]} />
+        <torusKnotGeometry args={[0.7, 0.2]} />
         <meshStandardMaterial
-          color="#fff8eb"
+          color="#8789FE"
           polygonOffset
           polygonOffsetFactor={-5}
           flatShading

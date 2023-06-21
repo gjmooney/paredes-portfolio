@@ -25,6 +25,8 @@ import tesla from "./company/tesla.png";
 import berkeley from "./company/berkeley.jpeg";
 import igmr from "./company/igmr.jpeg";
 import quantstack from "./company/quantstack.jpeg";
+import rwth from "./company/rwth.jpeg";
+import ucb from "./company/ucb.jpeg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +61,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  rwth,
+  ucb,
 };
